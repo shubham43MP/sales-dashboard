@@ -1,0 +1,18 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-background: var(--background);
+  --color-text: var(--text);
+  --color-title: var(--title);
+  --color-bar: var(--bar);
+  --color-border: var(--border);
+  --color-linechart-line: var(--linechart-line);
+  --color-linechart-underline: var(--linechart-underline);
+  --color-linegradient-from: var(--linegradient-from);
+  --color-linegradient-to: var(--linegradient-to);
+  --color-linegradient-under-from: var(--linegradient-under-from);
+  --color-linegradient-under-to: var(--linegradient-under-to);
+  --color-card-bg: var(--card-bg);
+  --color-toggle: var(--toggle);
+  --color-button: var(--button);
+}
