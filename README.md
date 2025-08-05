@@ -24,8 +24,8 @@ _## 🛠️ Getting Started_
 _### 1. Clone the repository_
 
 ```bash
-git clone https://github.com/your-username/next-dashboard-assignment.git
-cd next-dashboard-assignment
+git clone git@github.com:shubham43MP/sales-dashboard.git
+cd sales-dashboard
 ```
 
 _### 2. Configure Environment Variables_
