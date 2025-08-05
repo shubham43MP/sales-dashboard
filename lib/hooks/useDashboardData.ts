@@ -47,7 +47,7 @@ export function useDashboardData(initialData: DashboardApiResponse) {
     }
 
     const intervalId = setInterval(() => {
-      if (window.theme_loaded === true) {
+      if (window.theme_loaded) {
         setInitialLoad(true);
         clearInterval(intervalId);
       }
