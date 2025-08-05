@@ -1,10 +1,10 @@
-_# 🧩 Next.js Dashboard Assignment_
+# 🧩 Next.js Dashboard Assignment
 
 A **_responsive, customizable dashboard_** built with **_Next.js 15 (App Router)_**, **_Tailwind CSS v4_**, and **_TypeScript_**. It features a paginated payments table, real-time updates using Faker, theme support, and modular components — all designed for modern frontend workflows.
 
 ---
 
-_## 🚀 Features_
+## 🚀 Features
 
 - ✅ **_Next.js 15 App Router_** for routing and layout management
 - 🎨 **_Tailwind CSS v4_** with light/dark theme support
@@ -19,16 +19,16 @@ _## 🚀 Features_
 
 ---
 
-_## 🛠️ Getting Started_
+## 🛠️ Getting Started_
 
-_### 1. Clone the repository_
+### 1. Clone the repository
 
 ```bash
 git clone git@github.com:shubham43MP/sales-dashboard.git
 cd sales-dashboard
 ```
 
-_### 2. Configure Environment Variables_
+### 2. Configure Environment Variables
 
 ```bash
 cp .env.example .env.local
@@ -49,7 +49,7 @@ _### 3. Install Dependencies_
 npm install
 ```
 
-_### 4. Run the Development Server_
+### 4. Run the Development Server
 
 ```bash
 npm run dev
@@ -59,7 +59,7 @@ Then open your browser at [http://localhost:3000](__http://localhost:3000__)
 
 ---
 
-_## 📜 Scripts_
+## 📜 Scripts
 
 | Command         | Description                       |
 | --------------- | --------------------------------- |
@@ -70,7 +70,7 @@ _## 📜 Scripts_
 
 ---
 
-_## 🧰 Technologies Used_
+## 🧰 Technologies Used
 
 - [Next.js 15](__https://nextjs.org/__)
 - [Tailwind CSS v4](__https://tailwindcss.com/__)
@@ -81,7 +81,7 @@ _## 🧰 Technologies Used_
 
 ---
 
-_## 🌟 Possible Enhancements_
+## 🌟 Possible Enhancements
 
 - Add search and advanced filtering
 - Integrate real APIs for payments
@@ -102,6 +102,6 @@ _## 🌟 Possible Enhancements_
 
 ---
 
-_## 🪪 License_
+## 🪪 License
 
 This project is licensed under the [MIT License](__LICENSE__).
